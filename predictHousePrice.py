@@ -26,3 +26,7 @@ print(data.data.shape)  #(20640, 8)
 df['Target'] = data.target
 
 print(df.head())
+
+
+
+# Exploratory Data Analysis(EDA)
